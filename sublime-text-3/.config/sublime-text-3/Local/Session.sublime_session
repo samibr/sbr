@@ -1,0 +1,1386 @@
+{
+	"folder_history":
+	[
+		"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/ManuelsProf/Problèmes d'algèbre SM",
+		"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/ManuelsProf/Problèmes d'analyse SM"
+	],
+	"last_version": 3211,
+	"last_window_id": 15,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 700.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"use",
+						"usepackage"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							""
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Traditional"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"PdfLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"XeLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"LuaLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - PdfLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - XeLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - LuaLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Script Builder"
+						]
+					],
+					[
+						"Packages/LaTeXTools/LaTeX.sublime-build",
+						"XeLaTeX"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"pack",
+						"Package Control: Discover Packages"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"latex",
+						"Set Syntax: LaTeX"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/sami/Downloads/arco-bspwm-master/700-installing-fonts.sh",
+				"/home/sami/Downloads/arco-bspwm-master/300-software-arcolinux-3thparty.sh",
+				"/home/sami/Downloads/arco-bspwm-master/600-additional-arcolinux-software.sh",
+				"/home/sami/Downloads/arco-bspwm-master/170-network-discovery.sh",
+				"/home/MyPartition/Sami_Files/Preparatory/LATEX/ManuelsProf/CoursEtExos d_algebre_SM/TD/ch1.tex",
+				"/home/MyPartition/Sami_Files/Preparatory/LATEX/ManuelsProf/CoursEtExos d_algebre_SM/master.tex",
+				"/home/MyPartition/Sami_Files/Preparatory/LATEX/ManuelsProf/CoursEtExos d_algebre_SM/ch1.tex",
+				"/home/sami/Downloads/arco-bspwm-master/100-display-manager-and-desktop.sh",
+				"/home/sami/Pictures/DS1_analyse_SM_2019-20.tex",
+				"/home/sami/Pictures/latex.tex",
+				"/home/MyPartition/Sami_Files/Preparatory/LATEX/ManuelsProf/CoursEtExos d_algebre_SM/tcolorbox.tex",
+				"/home/sami/Pictures/CoursEtExos d_algebre_SM/master.tex",
+				"/home/sami/Pictures/CoursEtExos d_algebre_SM/ch3.tex",
+				"/home/sami/.config/sublime-text-3/Packages/User/LaTeXTools.sublime-settings",
+				"/home/sami/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+				"/home/sami/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/ManuelsProf/Problèmes d'algèbre SM/essai.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/ManuelsProf/Problèmes d'analyse SM/ch1.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/ManuelsProf/Problèmes d'algèbre SM/ch5.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/ManuelsProf/Problèmes d'algèbre SM/ch6.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/ManuelsProf/Problèmes d'algèbre SM/ch4.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/ManuelsProf/Problèmes d'algèbre SM/ch2.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/ManuelsProf/Problèmes d'algèbre SM/ch3.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/ManuelsProf/Problèmes d'algèbre SM/master.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/Examens-TD-Pb/Examens et DS/Algèbre SP/2018-19 Ex2 SP IPEIT.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/prepa/13-14 UNIV privé/DS2 analyse MP 18-19.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/prepa/13-14 UNIV privé/DS1 analyse SM 18-19.tex",
+				"/home/sami/Downloads/cheat-scrabble-master/cheat-scrabble.hs",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/prepa/13-14 UNIV privé/DS2 SP Algèbre 18-19 .tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/Examens-TD-Pb/Examens et DS/Algèbre SP/2018-19 DS2 SP IPEIT.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/prepa/13-14 UNIV privé/DS2 SM Algèbre 18-19 .tex",
+				"/home/sami/.cache/.fr-49Bodg/m11ps2ea/m11ps2ea.tex",
+				"/home/sami/.cache/.fr-finP99/m09ps2ea/m09ps2ea.tex",
+				"/home/sami/.cache/.fr-KNVI3W/m09pp1ea/m09pp1ea.tex",
+				"/home/sami/.cache/.fr-pf3n2x/m16pm2ea/m16pm2ea.tex",
+				"/home/sami/.cache/.fr-RLQGus/m076s2ea/m076s2ea.tex",
+				"/home/sami/.cache/.fr-NK7jMF/m06mp1eb/m06mp1eb.tex",
+				"/home/sami/Downloads/tikzposter/3_derivation_integration.tex",
+				"/home/sami/Downloads/tikzposter/9_arithmetique.tex",
+				"/home/sami/Downloads/baposter/docs-structure.tex",
+				"/home/sami/Downloads/tikzposter/fancytikzposter.tex",
+				"/home/sami/Downloads/tikzposter/1_suites.tex",
+				"/home/sami/.cache/.fr-P1gJ40/m06rm1ea/m06rm1ea.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/ManuelsProf/Summary/templates.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/ManuelsProf/Summary/tcolorbox-tutorial-poster.tex",
+				"/home/sami/.cache/.fr-ZgwDKm/m12ps2ea/m12ps2ea.tex",
+				"/home/sami/.cache/.fr-Epwzgg/m12ps1ea/m12ps1ea.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/SpéIPEIT/Problèmes/Espaces euclidiens/03-CCP-PC-03.tex",
+				"/home/sami/.cache/.fr-30lRVL/m96mmpea/m96mmpea.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/ManuelsProf/Problèmes d'analyse SM/master.tex",
+				"/home/sami/Downloads/notestex/tex/NotesTeX.sty",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/ManuelsProf/Problèmes d'analyse SM/ch2.tex",
+				"/home/sami/.cache/.fr-8g0tVu/m97tm2ea/m97tm2ea.tex",
+				"/home/sami/.cache/.fr-brBWQs/m96geueb/m96geueb.tex",
+				"/home/sami/.cache/.fr-xD2Qpp/m97rm1ea/m97rm1ea.tex",
+				"/home/sami/.cache/.fr-2No87U/m97ps1ea/m97ps1ea.tex",
+				"/home/sami/.cache/.fr-96lWbo/m18cp2e/m18cp2e.tex",
+				"/home/sami/Downloads/tcolorbox/tcolorbox.tex",
+				"/home/sami/Downloads/fncychap/fncychap.sty",
+				"/home/sami/Downloads/fncychap/fncychap.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/prepa/10-11/exam2MP2.tex",
+				"/home/sami/.cache/.fr-sVY3EM/m14dt3ea/m14dt3ea.tex",
+				"/home/sami/Downloads/Ex_1_etude_fct.tex",
+				"/home/sami/Downloads/tablor.tex",
+				"/home/sami/.cache/.fr-1I4Zxz/m14rm1ea/m14rm1ea.tex",
+				"/home/sami/.cache/.fr-xv9glu/m13pcuea/m13pcuea.tex",
+				"/home/sami/.cache/.fr-8UdEUl/m12ci1ea/m12ci1ea.tex",
+				"/home/sami/.cache/.fr-uJXrch/m11ci1ea/m11ci1ea.tex",
+				"/home/sami/.cache/.fr-MblTzL/m11pm1eb/m11pm1eb.tex",
+				"/home/sami/.cache/.fr-n5rPqW/m11pp2ea/m11pp2ea.tex",
+				"/home/sami/.cache/.fr-ufYpzx/m11ps1ea/m11ps1ea.tex",
+				"/home/sami/.cache/.fr-eKDr1w/m10pp2ea/m10pp2ea.tex",
+				"/home/sami/.cache/.fr-TkSrdz/m09rs1ea/m09rs1ea.tex",
+				"/home/sami/.cache/.fr-uzLPjj/m096m1ec/m096m1ec.tex",
+				"/home/sami/.cache/.fr-guIQ0B/m09pcuea/m09pcuea.tex",
+				"/home/sami/.cache/.fr-Um8IHV/m076m1ea/m076m1ea.tex",
+				"/home/sami/.cache/.fr-2vp8Aj/m07cp1ea/m07cp1ea.tex",
+				"/home/sami/.cache/.fr-GjR1OE/m07pcue/m07pcue.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/ManuelsProf/Problèmes d'analyse SM/master.toc",
+				"/home/sami/.cache/.fr-0kcxBY/m04mp2eb/m04mp2eb.tex",
+				"/home/sami/.cache/.fr-GPAqAY/m04cp1ea/m04cp1ea.tex",
+				"/home/sami/.cache/.fr-mefCMj/m04cm1ea/m04cm1ea.tex",
+				"/home/sami/.cache/.fr-yXu3X9/m04pp2ea/m04pp2ea.tex",
+				"/home/sami/.cache/.fr-qrpcMV/m01ce3ea/m01ce3ea.tex",
+				"/home/sami/Downloads/egreg/introtex.tex",
+				"/home/sami/.cache/.fr-nfDNbi/m92nm2ea/m92nm2ea.tex",
+				"/home/sami/.cache/.fr-siEWpA/m07pi1ea/m07pi1ea.tex",
+				"/home/sami/.cache/.fr-H7siPL/m07mp2ea/m07mp2ea.tex",
+				"/home/sami/.cache/.fr-qAjtu3/m14pm1ea/m14pm1ea.tex",
+				"/home/sami/.cache/.fr-kl6qGJ/m12cs1ea/m12cs1ea.tex",
+				"/home/sami/.cache/.fr-I9Gc7S/m12pi2ea/m12pi2ea.tex",
+				"/home/sami/.cache/.fr-j22tLh/m07pm1ea/m07pm1ea.tex",
+				"/home/sami/.cache/.fr-JXJRqN/m08pm1ea/m08pm1ea.tex",
+				"/home/sami/.cache/.fr-1VcwPp/m96cm1ec/m96cm1ec.tex",
+				"/home/sami/.cache/.fr-ZRVOY4/m96pp2eb/m96pp2eb.tex",
+				"/home/sami/.cache/.fr-OF8BBS/m88cm1ea/m88cm1ea.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/Problèmes/séries numériques/pb8.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/Problèmes/suites et séries de fonctions/pb1_théorème de Weierstrass.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/Problèmes/suites et séries de fonctions/pb4.tex",
+				"/home/sami/.cache/.fr-xX863X/m12pm1ea/m12pm1ea.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/Problèmes/séries numériques/pb3.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/Problèmes/séries numériques/pb4.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/Problèmes/séries numériques/pb1.tex",
+				"/home/sami/.cache/.fr-VqD7iz/m09cm1ea/m09cm1ea.tex",
+				"/home/sami/.cache/.fr-9wg2sI/m09ps1ea/m09ps1ea.tex",
+				"/home/sami/.cache/.fr-KPoVzA/m12pi2ea/m12pi2ea.tex",
+				"/home/sami/.cache/.fr-lJq3iP/m12pi2ea/m12pi2ea.tex",
+				"/home/sami/.cache/.fr-WTGxH7/m12pi2ea/m12pi2ea.tex",
+				"/home/sami/.cache/.fr-4azGz1/m12pm1ea/m12pm1ea.tex",
+				"/home/sami/.cache/.fr-x4VvKI/m12pm1ea/m12pm1ea.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/ManuelsProf/Problèmes d'algèbre SM/ch3.aux",
+				"/home/sami/.cache/.fr-Sg0pSw/m01pp2ea/m01pp2ea.tex",
+				"/home/sami/.cache/.fr-wiW0DQ/m99cs1ea/m99cs1ea.tex",
+				"/home/sami/.cache/.fr-HJnQrF/m00pp1eb/m00pp1eb.tex",
+				"/home/sami/.cache/.fr-t2pi3w/m00cs1ea/m00cs1ea.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/ManuelsProf/Problèmes d'analyse SM/preface.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/ManuelsProf/Problèmes d'analyse SM/page-de-garde.tex",
+				"/home/sami/.cache/.fr-gk2bOx/m13mp1ea/m13mp1ea.tex",
+				"/home/sami/.cache/.fr-a9TUeE/m09mm2ea/m09mm2ea.tex",
+				"/home/sami/.cache/.fr-w0Et7n/m076s2ea/m076s2ea.tex",
+				"/home/sami/.cache/.fr-z2WHRy/m03pm2ea/m03pm2ea.tex",
+				"/home/sami/.cache/.fr-ZD5SB9/m02pp1ea/m02pp1ea.tex",
+				"/home/sami/.cache/.fr-z3vVPX/m01emuea/m01emuea.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/ManuelsProf/Problèmes d'algèbre SP/ch4.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/ManuelsProf/Problèmes d'algèbre SP/ch2.tex",
+				"/home/sami/.cache/.fr-rDK28f/m01cp2ea/m01cp2ea.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/ManuelsProf/Problèmes d'algèbre SP/master.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/ManuelsProf/Problèmes d'algèbre SP/ch3.tex"
+			],
+			"find":
+			{
+				"height": 33.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"\\begin{question}",
+					"Coxeter",
+					"\\longmapsto",
+					"$l",
+					"[|1,p|]",
+					"autoadjoint",
+					"S_n^{++}",
+					"S_n^+",
+					"O(n)",
+					"S_n(\\mathbb{R})",
+					"[|1,n|]",
+					"\\Mat",
+					"\\mat$",
+					"\\transp{X}",
+					"itemize",
+					"\\R",
+					"\\N",
+					"\\noindent",
+					"[|1,n|]",
+					"\\tn",
+					"\\medbreak",
+					"itemize",
+					"\\R",
+					"\\N",
+					"\\bigbreak",
+					"\\noindent",
+					"tensor",
+					"\\medskip",
+					"\\GL",
+					"\\nz",
+					"\\imp",
+					"\\sh",
+					"\\ch",
+					"\\longto",
+					"\\mz",
+					"\\rz",
+					"\\cal",
+					"\\trans{X}",
+					"\\displaystyle",
+					"\\dt",
+					"\\dfrac",
+					"\\dint",
+					"\\mid",
+					"\\d ",
+					"description",
+					"itemize",
+					"\\fy",
+					"\\pgq",
+					"\\dint",
+					"\\N",
+					"\\ds",
+					"\\dpr",
+					"\\ppq",
+					"\\dfrac",
+					"\\dsum",
+					"\\M",
+					"\\R",
+					"\\medskip",
+					"\\geqslant",
+					"\\leqslant",
+					"^tM",
+					"^tZ",
+					"^tY",
+					"^tV",
+					"^tA",
+					"M_{n,1}{\\mathbb{R}}",
+					"M_{n}{\\mathbb{R}}",
+					"M_{n,p}{\\mathbb{R}}",
+					"\\qqs",
+					"\\deter",
+					"\\se",
+					"\\N",
+					"\\ie",
+					"\\ee",
+					"\\be",
+					"\\Large\\bf ",
+					"\\partie",
+					"\\mat{",
+					"\\R",
+					"itemize",
+					"\\acC",
+					"\\Acc",
+					"\\mat$",
+					"\\Mat",
+					"\\R",
+					"\\;d",
+					"\\Z",
+					"\\norme{.}",
+					"\\dsum",
+					"\\icomp",
+					"\\dfrac",
+					"\\N",
+					"\\classe{1}",
+					"\\eexp",
+					"\\classe {1}",
+					"\\ccal",
+					"\\abs",
+					"\\bsup",
+					"\\normetriple",
+					"\\ddr",
+					"\\dint",
+					"\\R",
+					"\\smallskip",
+					"\\bigskip",
+					"itemize",
+					"[|1,n|]",
+					"\\mat",
+					"\\Mat",
+					"\\medbreak",
+					"\\transp{A}",
+					"{\\rm Sp}",
+					"\\K",
+					"\\C",
+					"\\R",
+					"\\noindent",
+					"Ecrire",
+					"itemize",
+					"\\C",
+					"\\mat",
+					"\\Mat",
+					"\\noindent",
+					"\\K",
+					"\\R",
+					"\\>",
+					"\\Sup",
+					"\\R",
+					"\\question",
+					"\\sousquestion"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"\\mapsto",
+					"$\\ell",
+					"\\llbracket 1,p \\rrbracket",
+					"symétrique",
+					"\\mathcal S_n^{++}",
+					"\\mathcal S_n^+",
+					"\\mathcal O(n)",
+					"\\mathcal S_n(\\mathbb{R})",
+					"\\llbracket 1,n \\rrbracket",
+					"\\left(\\begin{array}",
+					"\\end{array}\\right)$",
+					"\\tensor[^t]{X}{}",
+					"enumerate",
+					"\\mathbb{R}",
+					"\\mathbb{N}",
+					"",
+					"\\llbracket 1,n \\rrbracket",
+					"\\vertiii",
+					"",
+					"enumerate",
+					"\\mathbb{R}",
+					"\\mathbb{N}",
+					"",
+					"\\operatorname{GL}",
+					"\\mathbb{N}",
+					"\\implies",
+					"\\operatorname{sh}",
+					"\\operatorname{ch}",
+					"\\to",
+					"\\mathcal{M}",
+					"\\mathbb{R}",
+					"\\mathcal",
+					"\\tensor[^t]{X}{}",
+					"",
+					"{\\rm d}t",
+					"\\frac",
+					"\\int",
+					",",
+					"{\\rm d}",
+					"enumerate",
+					"\\varphi",
+					"\\ge",
+					"\\int",
+					"\\mathbb{N}",
+					"",
+					"\\prod_",
+					"\\le",
+					"\\frac",
+					"\\sum",
+					"\\mathcal{M}",
+					"\\mathbb{R}",
+					"",
+					"\\ge",
+					"\\le",
+					"\\tensor[^t]{M}{}",
+					"\\tensor[^t]{Z}{}",
+					"\\tensor[^t]{Y}{}",
+					"\\tensor[^t]{V}{}",
+					"\\tensor[^t]{A}{}",
+					"M_{n,1}(\\mathbb{R})",
+					"M_{n}(\\mathbb{R})",
+					"M_{n,p}(\\mathbb{R})",
+					"\\forall",
+					"\\det",
+					"\\ge",
+					"\\mathbb{N}",
+					"\\le",
+					"\\end{enumerate}",
+					"\\begin{enumerate}",
+					"",
+					"\\section",
+					"\\mathcal M_{",
+					"\\mathbb{R}",
+					"enumerate",
+					"\\end{array}\\right.",
+					"\\left\\{\\begin{array}",
+					"\\end{array}\\right)$",
+					"\\left(\\begin{array}",
+					"\\mathbb{R}",
+					"{\\rm d}",
+					"\\mathbb{Z}",
+					"\\Vert\\cdot\\Vert",
+					"\\sum",
+					"i",
+					"\\frac",
+					"\\mathbb{N}",
+					"$\\mathscr C^1$",
+					"e",
+					"$\\mathscr{C}^1$",
+					"\\mathscr{C}",
+					"\\mathcal{C}",
+					"\\vert",
+					"\\sup_",
+					"\\vertiii",
+					"{\\rm d}",
+					"\\int",
+					"\\mathbb{R}",
+					"",
+					"enumerate",
+					"\\llbracket 1,n \\rrbracket",
+					"\\end{array}\\right )",
+					"\\left ( \\begin{array}",
+					"",
+					"\\tensor[^t]{A}{}",
+					"\\operatorname{Sp}",
+					"\\mathbb{K}",
+					"\\mathbb{C}",
+					"\\mathbb{R}",
+					"",
+					"\\'Ecrire",
+					"enumerate",
+					"\\mathbb{C}",
+					"\\end{array}\\right )",
+					"\\left(\\begin{array}",
+					"",
+					"\\mathbb{K}",
+					"\\mathbb{R}",
+					"",
+					"\\sup",
+					"\\mathbb{R}",
+					"\\item",
+					"{\\rm d}t",
+					"\\tensor[^t]{A}{}",
+					"\\tensor[^t]{Y}{}",
+					"\\tensor[^t]{X}{}",
+					"\\llbracket 1,p \\rrbracket",
+					"\\mathbb",
+					"\\tensor[^t]{M}{}"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 33.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.latextools":
+			{
+				"height": 162.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 162.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 202.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 682.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"use",
+						"usepackage"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/sami/.config/sxhkd/sxhkdrc",
+					"settings":
+					{
+						"buffer_size": 8398,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/sami/.fehbg",
+					"settings":
+					{
+						"buffer_size": 117,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/sami/.config/sxhkd/sxhkdrc_bspc",
+					"settings":
+					{
+						"buffer_size": 9542,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/MyPartition/Sami_Files/Linux_Software/INSTALL-LINUX/bspwm/script.sh",
+					"settings":
+					{
+						"buffer_size": 3246,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							""
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Traditional"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"PdfLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"XeLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"LuaLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - PdfLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - XeLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Basic Builder - LuaLaTeX"
+						],
+						[
+							"Packages/LaTeXTools/LaTeX.sublime-build",
+							"Script Builder"
+						]
+					],
+					[
+						"Packages/LaTeXTools/LaTeX.sublime-build",
+						"XeLaTeX"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"pack",
+						"Package Control: Discover Packages"
+					],
+					[
+						"in",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"latex",
+						"Set Syntax: LaTeX"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/sami/.config/polybar/config",
+				"/home/MyPartition/Sami_Files/Linux_Software/INSTALL-LINUX/bspwm/script.sh",
+				"/home/sami/.config/sxhkd/cheatsheet_sxhkdrc.txt",
+				"/home/sami/.config/bspwm/bspwmrc",
+				"/home/MyPartition/Sami_Files/Linux_Software/INSTALL-LINUX/install_my_apps.sh",
+				"/home/sami/.config/polybar/launch.sh",
+				"/home/sami/Downloads/arco-bspwm-master/500-software-distro-specific.sh",
+				"/home/sami/Downloads/arco-bspwm-master/700-installing-fonts.sh",
+				"/home/sami/Downloads/arco-bspwm-master/600-additional-arcolinux-software.sh",
+				"/home/sami/Downloads/arco-bspwm-master/300-software-arcolinux-3thparty.sh",
+				"/home/sami/Downloads/arco-bspwm-master/170-network-discovery.sh",
+				"/home/MyPartition/Sami_Files/Preparatory/LATEX/ManuelsProf/CoursEtExos d_algebre_SM/TD/ch1.tex",
+				"/home/MyPartition/Sami_Files/Preparatory/LATEX/ManuelsProf/CoursEtExos d_algebre_SM/master.tex",
+				"/home/MyPartition/Sami_Files/Preparatory/LATEX/ManuelsProf/CoursEtExos d_algebre_SM/ch1.tex",
+				"/home/sami/Downloads/arco-bspwm-master/100-display-manager-and-desktop.sh",
+				"/home/sami/Pictures/DS1_analyse_SM_2019-20.tex",
+				"/home/sami/Pictures/latex.tex",
+				"/home/MyPartition/Sami_Files/Preparatory/LATEX/ManuelsProf/CoursEtExos d_algebre_SM/tcolorbox.tex",
+				"/home/sami/Pictures/CoursEtExos d_algebre_SM/master.tex",
+				"/home/sami/Pictures/CoursEtExos d_algebre_SM/ch3.tex",
+				"/home/sami/.config/sublime-text-3/Packages/User/LaTeXTools.sublime-settings",
+				"/home/sami/.config/sublime-text-3/Packages/Package Control/Package Control.sublime-settings",
+				"/home/sami/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/ManuelsProf/Problèmes d'algèbre SM/essai.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/ManuelsProf/Problèmes d'analyse SM/ch1.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/ManuelsProf/Problèmes d'algèbre SM/ch5.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/ManuelsProf/Problèmes d'algèbre SM/ch6.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/ManuelsProf/Problèmes d'algèbre SM/ch4.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/ManuelsProf/Problèmes d'algèbre SM/ch2.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/ManuelsProf/Problèmes d'algèbre SM/ch3.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/ManuelsProf/Problèmes d'algèbre SM/master.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/Examens-TD-Pb/Examens et DS/Algèbre SP/2018-19 Ex2 SP IPEIT.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/prepa/13-14 UNIV privé/DS2 analyse MP 18-19.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/prepa/13-14 UNIV privé/DS1 analyse SM 18-19.tex",
+				"/home/sami/Downloads/cheat-scrabble-master/cheat-scrabble.hs",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/prepa/13-14 UNIV privé/DS2 SP Algèbre 18-19 .tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/Examens-TD-Pb/Examens et DS/Algèbre SP/2018-19 DS2 SP IPEIT.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/prepa/13-14 UNIV privé/DS2 SM Algèbre 18-19 .tex",
+				"/home/sami/.cache/.fr-49Bodg/m11ps2ea/m11ps2ea.tex",
+				"/home/sami/.cache/.fr-finP99/m09ps2ea/m09ps2ea.tex",
+				"/home/sami/.cache/.fr-KNVI3W/m09pp1ea/m09pp1ea.tex",
+				"/home/sami/.cache/.fr-pf3n2x/m16pm2ea/m16pm2ea.tex",
+				"/home/sami/.cache/.fr-RLQGus/m076s2ea/m076s2ea.tex",
+				"/home/sami/.cache/.fr-NK7jMF/m06mp1eb/m06mp1eb.tex",
+				"/home/sami/Downloads/tikzposter/3_derivation_integration.tex",
+				"/home/sami/Downloads/tikzposter/9_arithmetique.tex",
+				"/home/sami/Downloads/baposter/docs-structure.tex",
+				"/home/sami/Downloads/tikzposter/fancytikzposter.tex",
+				"/home/sami/Downloads/tikzposter/1_suites.tex",
+				"/home/sami/.cache/.fr-P1gJ40/m06rm1ea/m06rm1ea.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/ManuelsProf/Summary/templates.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/ManuelsProf/Summary/tcolorbox-tutorial-poster.tex",
+				"/home/sami/.cache/.fr-ZgwDKm/m12ps2ea/m12ps2ea.tex",
+				"/home/sami/.cache/.fr-Epwzgg/m12ps1ea/m12ps1ea.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/SpéIPEIT/Problèmes/Espaces euclidiens/03-CCP-PC-03.tex",
+				"/home/sami/.cache/.fr-30lRVL/m96mmpea/m96mmpea.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/ManuelsProf/Problèmes d'analyse SM/master.tex",
+				"/home/sami/Downloads/notestex/tex/NotesTeX.sty",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/ManuelsProf/Problèmes d'analyse SM/ch2.tex",
+				"/home/sami/.cache/.fr-8g0tVu/m97tm2ea/m97tm2ea.tex",
+				"/home/sami/.cache/.fr-brBWQs/m96geueb/m96geueb.tex",
+				"/home/sami/.cache/.fr-xD2Qpp/m97rm1ea/m97rm1ea.tex",
+				"/home/sami/.cache/.fr-2No87U/m97ps1ea/m97ps1ea.tex",
+				"/home/sami/.cache/.fr-96lWbo/m18cp2e/m18cp2e.tex",
+				"/home/sami/Downloads/tcolorbox/tcolorbox.tex",
+				"/home/sami/Downloads/fncychap/fncychap.sty",
+				"/home/sami/Downloads/fncychap/fncychap.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/prepa/10-11/exam2MP2.tex",
+				"/home/sami/.cache/.fr-sVY3EM/m14dt3ea/m14dt3ea.tex",
+				"/home/sami/Downloads/Ex_1_etude_fct.tex",
+				"/home/sami/Downloads/tablor.tex",
+				"/home/sami/.cache/.fr-1I4Zxz/m14rm1ea/m14rm1ea.tex",
+				"/home/sami/.cache/.fr-xv9glu/m13pcuea/m13pcuea.tex",
+				"/home/sami/.cache/.fr-8UdEUl/m12ci1ea/m12ci1ea.tex",
+				"/home/sami/.cache/.fr-uJXrch/m11ci1ea/m11ci1ea.tex",
+				"/home/sami/.cache/.fr-MblTzL/m11pm1eb/m11pm1eb.tex",
+				"/home/sami/.cache/.fr-n5rPqW/m11pp2ea/m11pp2ea.tex",
+				"/home/sami/.cache/.fr-ufYpzx/m11ps1ea/m11ps1ea.tex",
+				"/home/sami/.cache/.fr-eKDr1w/m10pp2ea/m10pp2ea.tex",
+				"/home/sami/.cache/.fr-TkSrdz/m09rs1ea/m09rs1ea.tex",
+				"/home/sami/.cache/.fr-uzLPjj/m096m1ec/m096m1ec.tex",
+				"/home/sami/.cache/.fr-guIQ0B/m09pcuea/m09pcuea.tex",
+				"/home/sami/.cache/.fr-Um8IHV/m076m1ea/m076m1ea.tex",
+				"/home/sami/.cache/.fr-2vp8Aj/m07cp1ea/m07cp1ea.tex",
+				"/home/sami/.cache/.fr-GjR1OE/m07pcue/m07pcue.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/ManuelsProf/Problèmes d'analyse SM/master.toc",
+				"/home/sami/.cache/.fr-0kcxBY/m04mp2eb/m04mp2eb.tex",
+				"/home/sami/.cache/.fr-GPAqAY/m04cp1ea/m04cp1ea.tex",
+				"/home/sami/.cache/.fr-mefCMj/m04cm1ea/m04cm1ea.tex",
+				"/home/sami/.cache/.fr-yXu3X9/m04pp2ea/m04pp2ea.tex",
+				"/home/sami/.cache/.fr-qrpcMV/m01ce3ea/m01ce3ea.tex",
+				"/home/sami/Downloads/egreg/introtex.tex",
+				"/home/sami/.cache/.fr-nfDNbi/m92nm2ea/m92nm2ea.tex",
+				"/home/sami/.cache/.fr-siEWpA/m07pi1ea/m07pi1ea.tex",
+				"/home/sami/.cache/.fr-H7siPL/m07mp2ea/m07mp2ea.tex",
+				"/home/sami/.cache/.fr-qAjtu3/m14pm1ea/m14pm1ea.tex",
+				"/home/sami/.cache/.fr-kl6qGJ/m12cs1ea/m12cs1ea.tex",
+				"/home/sami/.cache/.fr-I9Gc7S/m12pi2ea/m12pi2ea.tex",
+				"/home/sami/.cache/.fr-j22tLh/m07pm1ea/m07pm1ea.tex",
+				"/home/sami/.cache/.fr-JXJRqN/m08pm1ea/m08pm1ea.tex",
+				"/home/sami/.cache/.fr-1VcwPp/m96cm1ec/m96cm1ec.tex",
+				"/home/sami/.cache/.fr-ZRVOY4/m96pp2eb/m96pp2eb.tex",
+				"/home/sami/.cache/.fr-OF8BBS/m88cm1ea/m88cm1ea.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/Problèmes/séries numériques/pb8.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/Problèmes/suites et séries de fonctions/pb1_théorème de Weierstrass.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/Problèmes/suites et séries de fonctions/pb4.tex",
+				"/home/sami/.cache/.fr-xX863X/m12pm1ea/m12pm1ea.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/Problèmes/séries numériques/pb3.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/Problèmes/séries numériques/pb4.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/Problèmes/séries numériques/pb1.tex",
+				"/home/sami/.cache/.fr-VqD7iz/m09cm1ea/m09cm1ea.tex",
+				"/home/sami/.cache/.fr-9wg2sI/m09ps1ea/m09ps1ea.tex",
+				"/home/sami/.cache/.fr-KPoVzA/m12pi2ea/m12pi2ea.tex",
+				"/home/sami/.cache/.fr-lJq3iP/m12pi2ea/m12pi2ea.tex",
+				"/home/sami/.cache/.fr-WTGxH7/m12pi2ea/m12pi2ea.tex",
+				"/home/sami/.cache/.fr-4azGz1/m12pm1ea/m12pm1ea.tex",
+				"/home/sami/.cache/.fr-x4VvKI/m12pm1ea/m12pm1ea.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/ManuelsProf/Problèmes d'algèbre SM/ch3.aux",
+				"/home/sami/.cache/.fr-Sg0pSw/m01pp2ea/m01pp2ea.tex",
+				"/home/sami/.cache/.fr-wiW0DQ/m99cs1ea/m99cs1ea.tex",
+				"/home/sami/.cache/.fr-HJnQrF/m00pp1eb/m00pp1eb.tex",
+				"/home/sami/.cache/.fr-t2pi3w/m00cs1ea/m00cs1ea.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/ManuelsProf/Problèmes d'analyse SM/preface.tex",
+				"/mnt/09b14943-2696-44ae-beac-440faff69fb1/recovery/Documents/Préparatoire/Prépa/LATEX/ManuelsProf/Problèmes d'analyse SM/page-de-garde.tex",
+				"/home/sami/.cache/.fr-gk2bOx/m13mp1ea/m13mp1ea.tex",
+				"/home/sami/.cache/.fr-a9TUeE/m09mm2ea/m09mm2ea.tex",
+				"/home/sami/.cache/.fr-w0Et7n/m076s2ea/m076s2ea.tex",
+				"/home/sami/.cache/.fr-z2WHRy/m03pm2ea/m03pm2ea.tex"
+			],
+			"find":
+			{
+				"height": 45.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"dmenu",
+					"\\begin{question}",
+					"Coxeter",
+					"\\longmapsto",
+					"$l",
+					"[|1,p|]",
+					"autoadjoint",
+					"S_n^{++}",
+					"S_n^+",
+					"O(n)",
+					"S_n(\\mathbb{R})",
+					"[|1,n|]",
+					"\\Mat",
+					"\\mat$",
+					"\\transp{X}",
+					"itemize",
+					"\\R",
+					"\\N",
+					"\\noindent",
+					"[|1,n|]",
+					"\\tn",
+					"\\medbreak",
+					"itemize",
+					"\\R",
+					"\\N",
+					"\\bigbreak",
+					"\\noindent",
+					"tensor",
+					"\\medskip",
+					"\\GL",
+					"\\nz",
+					"\\imp",
+					"\\sh",
+					"\\ch",
+					"\\longto",
+					"\\mz",
+					"\\rz",
+					"\\cal",
+					"\\trans{X}",
+					"\\displaystyle",
+					"\\dt",
+					"\\dfrac",
+					"\\dint",
+					"\\mid",
+					"\\d ",
+					"description",
+					"itemize",
+					"\\fy",
+					"\\pgq",
+					"\\dint",
+					"\\N",
+					"\\ds",
+					"\\dpr",
+					"\\ppq",
+					"\\dfrac",
+					"\\dsum",
+					"\\M",
+					"\\R",
+					"\\medskip",
+					"\\geqslant",
+					"\\leqslant",
+					"^tM",
+					"^tZ",
+					"^tY",
+					"^tV",
+					"^tA",
+					"M_{n,1}{\\mathbb{R}}",
+					"M_{n}{\\mathbb{R}}",
+					"M_{n,p}{\\mathbb{R}}",
+					"\\qqs",
+					"\\deter",
+					"\\se",
+					"\\N",
+					"\\ie",
+					"\\ee",
+					"\\be",
+					"\\Large\\bf ",
+					"\\partie",
+					"\\mat{",
+					"\\R",
+					"itemize",
+					"\\acC",
+					"\\Acc",
+					"\\mat$",
+					"\\Mat",
+					"\\R",
+					"\\;d",
+					"\\Z",
+					"\\norme{.}",
+					"\\dsum",
+					"\\icomp",
+					"\\dfrac",
+					"\\N",
+					"\\classe{1}",
+					"\\eexp",
+					"\\classe {1}",
+					"\\ccal",
+					"\\abs",
+					"\\bsup",
+					"\\normetriple",
+					"\\ddr",
+					"\\dint",
+					"\\R",
+					"\\smallskip",
+					"\\bigskip",
+					"itemize",
+					"[|1,n|]",
+					"\\mat",
+					"\\Mat",
+					"\\medbreak",
+					"\\transp{A}",
+					"{\\rm Sp}",
+					"\\K",
+					"\\C",
+					"\\R",
+					"\\noindent",
+					"Ecrire",
+					"itemize",
+					"\\C",
+					"\\mat",
+					"\\Mat",
+					"\\noindent",
+					"\\K",
+					"\\R",
+					"\\>",
+					"\\Sup",
+					"\\R",
+					"\\question"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"\\mapsto",
+					"$\\ell",
+					"\\llbracket 1,p \\rrbracket",
+					"symétrique",
+					"\\mathcal S_n^{++}",
+					"\\mathcal S_n^+",
+					"\\mathcal O(n)",
+					"\\mathcal S_n(\\mathbb{R})",
+					"\\llbracket 1,n \\rrbracket",
+					"\\left(\\begin{array}",
+					"\\end{array}\\right)$",
+					"\\tensor[^t]{X}{}",
+					"enumerate",
+					"\\mathbb{R}",
+					"\\mathbb{N}",
+					"",
+					"\\llbracket 1,n \\rrbracket",
+					"\\vertiii",
+					"",
+					"enumerate",
+					"\\mathbb{R}",
+					"\\mathbb{N}",
+					"",
+					"\\operatorname{GL}",
+					"\\mathbb{N}",
+					"\\implies",
+					"\\operatorname{sh}",
+					"\\operatorname{ch}",
+					"\\to",
+					"\\mathcal{M}",
+					"\\mathbb{R}",
+					"\\mathcal",
+					"\\tensor[^t]{X}{}",
+					"",
+					"{\\rm d}t",
+					"\\frac",
+					"\\int",
+					",",
+					"{\\rm d}",
+					"enumerate",
+					"\\varphi",
+					"\\ge",
+					"\\int",
+					"\\mathbb{N}",
+					"",
+					"\\prod_",
+					"\\le",
+					"\\frac",
+					"\\sum",
+					"\\mathcal{M}",
+					"\\mathbb{R}",
+					"",
+					"\\ge",
+					"\\le",
+					"\\tensor[^t]{M}{}",
+					"\\tensor[^t]{Z}{}",
+					"\\tensor[^t]{Y}{}",
+					"\\tensor[^t]{V}{}",
+					"\\tensor[^t]{A}{}",
+					"M_{n,1}(\\mathbb{R})",
+					"M_{n}(\\mathbb{R})",
+					"M_{n,p}(\\mathbb{R})",
+					"\\forall",
+					"\\det",
+					"\\ge",
+					"\\mathbb{N}",
+					"\\le",
+					"\\end{enumerate}",
+					"\\begin{enumerate}",
+					"",
+					"\\section",
+					"\\mathcal M_{",
+					"\\mathbb{R}",
+					"enumerate",
+					"\\end{array}\\right.",
+					"\\left\\{\\begin{array}",
+					"\\end{array}\\right)$",
+					"\\left(\\begin{array}",
+					"\\mathbb{R}",
+					"{\\rm d}",
+					"\\mathbb{Z}",
+					"\\Vert\\cdot\\Vert",
+					"\\sum",
+					"i",
+					"\\frac",
+					"\\mathbb{N}",
+					"$\\mathscr C^1$",
+					"e",
+					"$\\mathscr{C}^1$",
+					"\\mathscr{C}",
+					"\\mathcal{C}",
+					"\\vert",
+					"\\sup_",
+					"\\vertiii",
+					"{\\rm d}",
+					"\\int",
+					"\\mathbb{R}",
+					"",
+					"enumerate",
+					"\\llbracket 1,n \\rrbracket",
+					"\\end{array}\\right )",
+					"\\left ( \\begin{array}",
+					"",
+					"\\tensor[^t]{A}{}",
+					"\\operatorname{Sp}",
+					"\\mathbb{K}",
+					"\\mathbb{C}",
+					"\\mathbb{R}",
+					"",
+					"\\'Ecrire",
+					"enumerate",
+					"\\mathbb{C}",
+					"\\end{array}\\right )",
+					"\\left(\\begin{array}",
+					"",
+					"\\mathbb{K}",
+					"\\mathbb{R}",
+					"",
+					"\\sup",
+					"\\mathbb{R}",
+					"\\item",
+					"{\\rm d}t",
+					"\\tensor[^t]{A}{}",
+					"\\tensor[^t]{Y}{}",
+					"\\tensor[^t]{X}{}",
+					"\\llbracket 1,p \\rrbracket",
+					"\\mathbb",
+					"\\tensor[^t]{M}{}"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/sami/.config/sxhkd/sxhkdrc",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 8398,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										5997,
+										5997
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 5421.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/sami/.fehbg",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 117,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										117,
+										117
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Bash.sublime-syntax"
+								},
+								"translation.x": 123.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/sami/.config/sxhkd/sxhkdrc_bspc",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 9542,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										586,
+										587
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 608.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/MyPartition/Sami_Files/Linux_Software/INSTALL-LINUX/bspwm/script.sh",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 3246,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2245,
+										2245
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Bash.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 2352.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 33.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.latextools":
+			{
+				"height": 162.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 162.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,0,0,1366,768",
+			"project": "",
+			"replace":
+			{
+				"height": 62.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 202.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 14,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

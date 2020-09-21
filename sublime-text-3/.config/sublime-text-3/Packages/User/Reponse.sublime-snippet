@@ -1,0 +1,15 @@
+<snippet>
+	<description>Environnement ElementDeReponse</description>
+	<content><![CDATA[
+\begin{ElementDeReponse}
+\begin{footnotesize}
+\textsc{\'Eléments de réponse}
+${1:}
+\end{footnotesize}
+\end{ElementDeReponse}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	 <tabTrigger>Rep</tabTrigger> 
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>text.tex.latex</scope> 
+</snippet>

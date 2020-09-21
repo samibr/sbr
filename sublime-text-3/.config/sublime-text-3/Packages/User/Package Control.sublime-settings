@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Dictionaries",
+		"LaTeX Accents",
+		"LaTeXTools",
+		"Package Control"
+	],
+	"repositories":
+	[
+		"https://github.com/titoBouzout/Dictionaries"
+	]
+}
